@@ -1,6 +1,6 @@
 {
     "modName": "Bunker Attrition",
-    "modVersion": "0.0.1",
+    "modVersion": "1.0.0",
     "modAuthor": "mxovd",
     "supportedGameVersion": "8.1.0+",
     "dependencies": "HarmonyCore",
