@@ -4,5 +4,5 @@
     "modAuthor": "mxovd",
     "supportedGameVersion": "8.1.0+",
     "dependencies": "HarmonyCore",
-    "modDescription": "Enables bunker attrition when bunkers are in enemy territory"
+    "modDescription": "Enables bunker attrition when bunkers are in enemy-controlled territory"
 }
